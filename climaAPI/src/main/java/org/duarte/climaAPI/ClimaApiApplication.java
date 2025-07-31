@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ClimaApiApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(ClimaApiApplication.class, args);
 	}
 

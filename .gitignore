@@ -35,3 +35,20 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# Arquivo: .gitignore
+
+# Arquivos de configuração local
+application.properties
+
+# Logs
+logs
+*.log
+
+# Arquivos gerados pelo build do Gradle
+.gradle
+/build/
+
+# Arquivos de IDE
+.idea/
+*.iml

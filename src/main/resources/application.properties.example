@@ -1,0 +1,5 @@
+# Arquivo: src/main/resources/application.properties.example
+
+# OpenWeather API Configuration
+openweather.api.url=https://api.openweathermap.org/data/2.5
+openweather.api.key=SUA_CHAVE_API_VAI_AQUI
